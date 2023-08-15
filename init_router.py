@@ -11,3 +11,5 @@ R2 = {
     'username': 'scripting2',
     'password': 'cisco'
 }
+
+routers = [R1, R2]
